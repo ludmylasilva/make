@@ -4,7 +4,7 @@ body{
     color: pink;
    margin: 0px;
    margin-bottom: 100px ;
-   
+
 }
 .chamada{
     background: burlywood;
@@ -13,3 +13,15 @@ body{
     margin-top:  80px;
     margin-bottom: 80px ;
 } 
+header{
+    font-size: 40px;
+    color:plum;
+    border-bottom: 3px solid plum;
+    padding: 20px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
